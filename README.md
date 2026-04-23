@@ -2,5 +2,7 @@
 
 Espacio para cargar la aplicación TU REPUESTO
 
-&#x20;segunda forma de Cargar desde 
+&#x20;segunda forma de Cargar desde
+
+3 cambio para saber si entendi
 
