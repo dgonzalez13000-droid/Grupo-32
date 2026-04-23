@@ -1,2 +1,4 @@
 # Grupo-32
-Espacio para cargar la aplicacio TU REPUESTO
+
+Espacio para cargar la aplicación TU REPUESTO
+
