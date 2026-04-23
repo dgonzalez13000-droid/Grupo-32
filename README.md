@@ -1,6 +1,6 @@
-# Grupo-32
+# Grupo-Diana Gonzalez Grupo 32
 
-Espacio para cargar la aplicación TU REPUESTO
+Espacio para cargar la aplicación móvil TU REPUESTO
 
 &#x20;segunda forma de Cargar desde
 
