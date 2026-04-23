@@ -2,3 +2,5 @@
 
 Espacio para cargar la aplicación TU REPUESTO
 
+&#x20;segunda forma de Cargar desde 
+
