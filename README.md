@@ -9,5 +9,5 @@ G
 creo que voy entendiendo
 
 error y ensayo. a ver si logro entender intento 4
-vamos a modificar por 5 vez, esto es eroro y ensayo 
+vamos a modificar por 5 vez, esto es error, intento y perseverar 
 
